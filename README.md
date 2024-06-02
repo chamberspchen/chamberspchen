@@ -1,5 +1,5 @@
 
-Introduction to this Flutter App: Connecting to JDE with Ease
+Introduction to this Flutter App: Connecting to JD Edwards with Ease
 
 
 A mobile app using Flutter and Dart, specifically designed to connect with JDE (JD Edwards) via orchestration. This app performs CRUD (Create, Read, Update, Delete) operations, handles user authentication, and displays images.
