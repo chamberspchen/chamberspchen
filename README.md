@@ -1,6 +1,8 @@
 
 Introduction to this Flutter App: Connecting to JDE with Ease
-I developed a mobile app using Flutter and Dart, specifically designed to connect with JDE (JD Edwards) via orchestration. This app performs CRUD (Create, Read, Update, Delete) operations, handles user authentication, and displays images.
+
+
+A mobile app using Flutter and Dart, specifically designed to connect with JDE (JD Edwards) via orchestration. This app performs CRUD (Create, Read, Update, Delete) operations, handles user authentication, and displays images.
 
 Key Features
 CRUD Operations with JDE: The app seamlessly connects to JDE, allowing users to perform CRUD operations on JDE data. This makes it a powerful tool for managing JDE data directly from your mobile device.
@@ -25,8 +27,17 @@ Learn how to implement various state management solutions in Flutter.
 Easily adapt the app to implement any JDE JSON interface calls, making it a versatile base for your projects.
 Conclusion
 This Flutter app is a comprehensive solution for connecting with JDE, featuring robust CRUD operations, secure login, and image display. It leverages the latest state management packages, providing a valuable learning experience and a versatile template for future development. Whether you're looking to manage JDE data or learn more about state management in Flutter, this app has you covered.
-
+    
 <!---
 chamberspchen/chamberspchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img width="207" alt="2024-06-02_15h49_15" src="https://github.com/chamberspchen/chamberspchen/assets/163770556/05649bad-25f6-4bec-ac1d-d77a45c408d3">    
+
+
+<img width="206" alt="2024-06-02_16h01_06" src="https://github.com/chamberspchen/chamberspchen/assets/163770556/c7ef935c-1618-45de-972f-40f2c58aaffc">    
+
+
+<img width="206" alt="2024-06-02_16h09_30" src="https://github.com/chamberspchen/chamberspchen/assets/163770556/90160e65-709e-4190-ac7f-0a0dcd6648f2">    
+  
+
