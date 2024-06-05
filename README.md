@@ -27,6 +27,9 @@ Learn how to implement various state management solutions in Flutter.
 Easily adapt the app to implement any JDE JSON interface calls, making it a versatile base for your projects.
 Conclusion
 This Flutter app is a comprehensive solution for connecting with JDE, featuring robust CRUD operations, secure login, and image display. It leverages the latest state management packages, providing a valuable learning experience and a versatile template for future development. Whether you're looking to manage JDE data or learn more about state management in Flutter, this app has you covered.
+
+
+Currently you can sponsor 19CAD for one time sponsor then get the : DB schema, Orchestration library and the installation guide. Pls note the Orchestration is leveraging the Logic Extension, so you have  minimum TR 9.2.6 to run this appl up. And I will provide technical support and anwser the questions.
     
 <!---
 chamberspchen/chamberspchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-  <img width="205" alt="2024-06-02_16h15_22" src="https://github.com/chamberspchen/chamberspchen/assets/163770556/a84e0454-13ab-422f-a2e0-a068c7d99fd9">
+<img width="205" alt="2024-06-02_16h15_22" src="https://github.com/chamberspchen/chamberspchen/assets/163770556/a84e0454-13ab-422f-a2e0-a068c7d99fd9">
 
 
