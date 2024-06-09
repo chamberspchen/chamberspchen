@@ -30,7 +30,7 @@ Learning or Design Template Benefits: <br>
   This app not only serves as a practical tool but also as a template for developers. By using this app, you can:  Learn how to implement various state management solutions in Flutter. Easily adapt the app to implement any JDE JSON interface calls, making it a versatile base for your projects.<br>
 
 Conclusion:<br>
-  This Flutter app is a comprehensive solution for connecting with JDE, featuring robust CRUD operations, secure login, and image display. It leverages the latest state management packages, providing a valuable learning experience and a versatile template for future development. Whether you're looking to manage JDE data or learn more about state management in Flutter, this app has you covered.
+  This Flutter app is a comprehensive solution for connecting with JDE, featuring robust CRUD operations, secure login, and image display. It leverages the latest state management packages, providing a valuable learning experience and a versatile template for future development. Whether you're looking to access JDE data via Orchestration and IOS or Android mobile or learn more about state management in Flutter, this app has you covered.
 
 
 
