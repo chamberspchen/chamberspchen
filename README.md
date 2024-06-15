@@ -34,7 +34,7 @@ Conclusion:<br>
 
 
 
-Currently you can sponsor 8.99CAD for one time sponsor then get the : DB schema, Orchestration library and the installation guide. Pls note the Orchestration is leveraging the Logic Extension, so you should have  minimum TR 9.2.6 to run this appl up. And I will provide technical support and anwser the questions.
+Currently you can sponsor 10CAD for one time sponsor then get the : DB schema, Orchestration library and the installation guide. Pls note the Orchestration is leveraging the Logic Extension, so you should have  minimum TR 9.2.6 to run this appl up. And I will provide technical support and anwser the questions.
     
 <!---
 chamberspchen/chamberspchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
